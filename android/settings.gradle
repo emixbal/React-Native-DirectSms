@@ -1,0 +1,3 @@
+rootProject.name = 'upsms55'
+
+include ':app'
